@@ -167,7 +167,7 @@ Finally a Fast Fourier Transform (FFT) was applied to some of these signals prod
   
   
   
-Process used:    
+###Process used:    
 0.	Verified the number of rows, columns and the number of features. (not included in the code)  
 1. 	Read Reference data - Activity Code and Feature Code  
 2.	Get the feetures related to mean and standard deviation. This list are used to extract only the measurements on the mean and standard deviation for each measurement.  
